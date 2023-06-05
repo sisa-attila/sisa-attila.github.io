@@ -1,50 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Betekintő</title><link>https://betekinto.hu</link><description>Betekintő számok</description><language>hu-HU</language><lastBuildDate>Mon, 05 Jun 2023 20:33:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>2023/1. szám | BETEKINTŐ</title><link>https://betekinto.hu/hu/szamok/2023_1</link><description>&lt;base href="https://www.betekinto.hu/" /&gt;&lt;style media="all"&gt;
-@import url("https://betekinto.hu/core/misc/normalize.css?rtgi76");
-@import url("https://betekinto.hu/core/modules/system/css/system.css?rtgi76");
-@import url("https://betekinto.hu/core/modules/system/css/system.theme.css?rtgi76");
-@import url("https://betekinto.hu/core/modules/system/css/messages.theme.css?rtgi76");
-&lt;/style&gt;
-&lt;style media="all"&gt;
-@import url("https://betekinto.hu/core/modules/layout/css/grid-flexbox.css?rtgi76");
-&lt;/style&gt;
-&lt;style media="all"&gt;
-@import url("https://betekinto.hu/core/modules/date/css/date.css?rtgi76");
-@import url("https://betekinto.hu/core/modules/field/css/field.css?rtgi76");
-@import url("https://betekinto.hu/modules/special_menu_items/css/special_menu_items.css?rtgi76");
-@import url("https://betekinto.hu/core/modules/user/css/user.css?rtgi76");
-@import url("https://betekinto.hu/core/modules/views/css/views.css?rtgi76");
-&lt;/style&gt;
-&lt;style media="all"&gt;
-@import url("https://betekinto.hu/core/modules/locale/css/locale.css?rtgi76");
-@import url("https://betekinto.hu/core/modules/system/css/menu-dropdown.theme.css?rtgi76");
-@import url("https://betekinto.hu/core/modules/system/css/menu-toggle.theme.css?rtgi76");
-@import url("https://betekinto.hu/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?rtgi76");
-&lt;/style&gt;
-&lt;style media="all"&gt;#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#000;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#fff !important;}.eu-cookie-withdraw-tab{border-color:#fff;}.eu-cookie-compliance-more-button{color:#fff !important;}
-&lt;/style&gt;
-&lt;style media="all"&gt;
-@import url("https://betekinto.hu/themes/snazzy/css/spectral-font.css?rtgi76");
-@import url("https://betekinto.hu/themes/snazzy/css/style.css?rtgi76");
-@import url("https://betekinto.hu/themes/snazzy/css/components/header.css?rtgi76");
-@import url("https://betekinto.hu/themes/snazzy/css/components/backdrop-form.css?rtgi76");
-@import url("https://betekinto.hu/themes/snazzy/css/components/comment.css?rtgi76");
-@import url("https://betekinto.hu/themes/snazzy/css/components/fieldset.css?rtgi76");
-@import url("https://betekinto.hu/themes/snazzy/css/components/vertical-tabs.css?rtgi76");
-@import url("https://betekinto.hu/themes/snazzy/css/components/search.css?rtgi76");
-@import url("https://betekinto.hu/themes/snazzy/css/components/pager.css?rtgi76");
-@import url("https://betekinto.hu/themes/snazzy/css/components/cards.css?rtgi76");
-@import url("https://betekinto.hu/sites/default/files/color/snazzy-cb167883/colors.css?rtgi76");
-@import url("https://betekinto.hu/themes/snazzy/css/custom.css?rtgi76");
-&lt;/style&gt;
-&lt;style media="screen"&gt;
-@import url("https://betekinto.hu/themes/snazzy/css/maintenance.css?rtgi76");
-@import url("https://betekinto.hu/core/misc/opensans/opensans.css?rtgi76");
-&lt;/style&gt;
-&lt;style media="screen"&gt;
-@import url("https://betekinto.hu/core/misc/smartmenus/css/sm-core-css.css?rtgi76");
-&lt;/style&gt;&lt;main aria-label="Main content" class="l-content col-md-8" role="main"&gt;
-&lt;div class="view view-szamok view-id-szamok view-display-id-szamok view-dom-id-fa34ca0e697101c436d3500acf300d8e"&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Betekintő</title><link>https://betekinto.hu</link><description>Betekintő számok</description><language>hu-HU</language><lastBuildDate>Mon, 05 Jun 2023 20:35:24 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>2023/1. szám | BETEKINTŐ</title><link>https://betekinto.hu/hu/szamok/2023_1</link><description>&lt;base href="https://www.betekinto.hu/" /&gt;&lt;main aria-label="Main content" class="l-content col-md-8" role="main"&gt;
+&lt;div class="view view-szamok view-id-szamok view-display-id-szamok view-dom-id-4d69c9e2e54c18c245ae9b8742d3d2d3"&gt;
 &lt;div class="view-content"&gt;
 &lt;div&gt;
 &lt;div class="col-md-12"&gt;
@@ -287,4 +243,4 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt; &lt;/main&gt;</description><author>Betekintő</author><pubDate>Mon, 05 Jun 2023 20:33:00 GMT</pubDate><guid isPermaLink="true">https://betekinto.hu/hu/szamok/2023_1</guid></item></channel></rss>
+&lt;/div&gt; &lt;/main&gt;</description><author>Betekintő</author><pubDate>Mon, 05 Jun 2023 20:35:24 GMT</pubDate><guid isPermaLink="true">https://betekinto.hu/hu/szamok/2023_1</guid></item></channel></rss>
