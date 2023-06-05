@@ -1,2 +1,290 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Betekintő</title><link>https://betekinto.hu</link><description>Betekintő számok</description><language>hu-HU</language><lastBuildDate>Mon, 05 Jun 2023 19:11:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>2023/1. szám | BETEKINTŐ</title><link>https://betekinto.hu/hu/szamok/2023_1</link><description>2023/1. szám | BETEKINTŐ</description><author>Betekintő</author><pubDate>Mon, 05 Jun 2023 19:11:35 GMT</pubDate><guid isPermaLink="true">https://betekinto.hu/hu/szamok/2023_1</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Betekintő</title><link>https://betekinto.hu</link><description>Betekintő számok</description><language>hu-HU</language><lastBuildDate>Mon, 05 Jun 2023 20:33:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>2023/1. szám | BETEKINTŐ</title><link>https://betekinto.hu/hu/szamok/2023_1</link><description>&lt;base href="https://www.betekinto.hu/" /&gt;&lt;style media="all"&gt;
+@import url("https://betekinto.hu/core/misc/normalize.css?rtgi76");
+@import url("https://betekinto.hu/core/modules/system/css/system.css?rtgi76");
+@import url("https://betekinto.hu/core/modules/system/css/system.theme.css?rtgi76");
+@import url("https://betekinto.hu/core/modules/system/css/messages.theme.css?rtgi76");
+&lt;/style&gt;
+&lt;style media="all"&gt;
+@import url("https://betekinto.hu/core/modules/layout/css/grid-flexbox.css?rtgi76");
+&lt;/style&gt;
+&lt;style media="all"&gt;
+@import url("https://betekinto.hu/core/modules/date/css/date.css?rtgi76");
+@import url("https://betekinto.hu/core/modules/field/css/field.css?rtgi76");
+@import url("https://betekinto.hu/modules/special_menu_items/css/special_menu_items.css?rtgi76");
+@import url("https://betekinto.hu/core/modules/user/css/user.css?rtgi76");
+@import url("https://betekinto.hu/core/modules/views/css/views.css?rtgi76");
+&lt;/style&gt;
+&lt;style media="all"&gt;
+@import url("https://betekinto.hu/core/modules/locale/css/locale.css?rtgi76");
+@import url("https://betekinto.hu/core/modules/system/css/menu-dropdown.theme.css?rtgi76");
+@import url("https://betekinto.hu/core/modules/system/css/menu-toggle.theme.css?rtgi76");
+@import url("https://betekinto.hu/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?rtgi76");
+&lt;/style&gt;
+&lt;style media="all"&gt;#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#000;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#fff !important;}.eu-cookie-withdraw-tab{border-color:#fff;}.eu-cookie-compliance-more-button{color:#fff !important;}
+&lt;/style&gt;
+&lt;style media="all"&gt;
+@import url("https://betekinto.hu/themes/snazzy/css/spectral-font.css?rtgi76");
+@import url("https://betekinto.hu/themes/snazzy/css/style.css?rtgi76");
+@import url("https://betekinto.hu/themes/snazzy/css/components/header.css?rtgi76");
+@import url("https://betekinto.hu/themes/snazzy/css/components/backdrop-form.css?rtgi76");
+@import url("https://betekinto.hu/themes/snazzy/css/components/comment.css?rtgi76");
+@import url("https://betekinto.hu/themes/snazzy/css/components/fieldset.css?rtgi76");
+@import url("https://betekinto.hu/themes/snazzy/css/components/vertical-tabs.css?rtgi76");
+@import url("https://betekinto.hu/themes/snazzy/css/components/search.css?rtgi76");
+@import url("https://betekinto.hu/themes/snazzy/css/components/pager.css?rtgi76");
+@import url("https://betekinto.hu/themes/snazzy/css/components/cards.css?rtgi76");
+@import url("https://betekinto.hu/sites/default/files/color/snazzy-cb167883/colors.css?rtgi76");
+@import url("https://betekinto.hu/themes/snazzy/css/custom.css?rtgi76");
+&lt;/style&gt;
+&lt;style media="screen"&gt;
+@import url("https://betekinto.hu/themes/snazzy/css/maintenance.css?rtgi76");
+@import url("https://betekinto.hu/core/misc/opensans/opensans.css?rtgi76");
+&lt;/style&gt;
+&lt;style media="screen"&gt;
+@import url("https://betekinto.hu/core/misc/smartmenus/css/sm-core-css.css?rtgi76");
+&lt;/style&gt;&lt;main aria-label="Main content" class="l-content col-md-8" role="main"&gt;
+&lt;div class="view view-szamok view-id-szamok view-display-id-szamok view-dom-id-fa34ca0e697101c436d3500acf300d8e"&gt;
+&lt;div class="view-content"&gt;
+&lt;div&gt;
+&lt;div class="col-md-12"&gt;
+&lt;div class="egy-cikk"&gt;
+&lt;div class="col-md-4"&gt;
+&lt;a href="/taxonomy/term/11"&gt;&lt;img class="cikk-temakor" src="/sites/default/files/fo_temakorok/11_kommunista_mozgalom.png"/&gt;&lt;/a&gt; &lt;/div&gt;
+&lt;div class="col-md-8"&gt;
+&lt;div class="cikk-szerzo"&gt;
+				Varga Krisztián				
+&lt;/div&gt;
+&lt;div class="cikk-cim"&gt;
+				Magyar anarchisták a spanyol polgárháborúban, 1936–1939				
+&lt;/div&gt;
+&lt;div class="cikk-alcim"&gt;
+				1. rész				
+&lt;/div&gt;
+&lt;div class="cikk-osszefoglalas"&gt;
+&lt;/div&gt;
+&lt;div class="cikk-tax-fo-temakor"&gt;
+&lt;span&gt;Fő témakör: &lt;/span&gt;&lt;br/&gt;&lt;a href="/hu/taxonomy/term/11"&gt;kommunista mozgalom&lt;/a&gt; &lt;/div&gt;
+&lt;div class="cikk-tax-temak"&gt;
+&lt;span&gt;Címkék: &lt;/span&gt;&lt;div class="item-list"&gt;&lt;ul&gt;&lt;li class="odd first"&gt;&lt;a href="/hu/taxonomy/term/225"&gt;antifasizmus&lt;/a&gt;&lt;/li&gt;&lt;li class="even last"&gt;&lt;a href="/hu/taxonomy/term/224"&gt;forradalom&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cikk-pdf-letoltes"&gt;
+&lt;a href="https://betekinto.hu/sites/default/files/betekinto-szamok/2023_01_varga.pdf" target="blank"&gt;				
+				Letöltés				&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class="col-md-12"&gt;
+&lt;div class="egy-cikk"&gt;
+&lt;div class="col-md-4"&gt;
+&lt;a href="/taxonomy/term/180"&gt;&lt;img class="cikk-temakor" src="/sites/default/files/fo_temakorok/24_kelet_kozep_europa.png"/&gt;&lt;/a&gt; &lt;/div&gt;
+&lt;div class="col-md-8"&gt;
+&lt;div class="cikk-szerzo"&gt;
+				Simon Attila				
+&lt;/div&gt;
+&lt;div class="cikk-cim"&gt;
+				Hancsovszky. Egy ellentmondásos történet rekonstrukciója				
+&lt;/div&gt;
+&lt;div class="cikk-alcim"&gt;
+
+&lt;/div&gt;
+&lt;div class="cikk-osszefoglalas"&gt;
+&lt;/div&gt;
+&lt;div class="cikk-tax-fo-temakor"&gt;
+&lt;span&gt;Fő témakör: &lt;/span&gt;&lt;br/&gt;&lt;a href="/hu/taxonomy/term/180"&gt;Kelet- és Közép Európa&lt;/a&gt; &lt;/div&gt;
+&lt;div class="cikk-tax-temak"&gt;
+&lt;span&gt;Címkék: &lt;/span&gt;&lt;div class="item-list"&gt;&lt;ul&gt;&lt;li class="odd first"&gt;&lt;a href="/hu/taxonomy/term/38"&gt;Csehszlovákia&lt;/a&gt;&lt;/li&gt;&lt;li class="even"&gt;&lt;a href="/hu/taxonomy/term/195"&gt;Határon túli magyarok&lt;/a&gt;&lt;/li&gt;&lt;li class="odd last"&gt;&lt;a href="/hu/taxonomy/term/95"&gt;Népbírósági tárgyalások&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cikk-pdf-letoltes"&gt;
+&lt;a href="https://betekinto.hu/sites/default/files/betekinto-szamok/2023_01_simon.pdf" target="blank"&gt;				
+				Letöltés				&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class="col-md-12"&gt;
+&lt;div class="egy-cikk"&gt;
+&lt;div class="col-md-4"&gt;
+&lt;a href="/taxonomy/term/12"&gt;&lt;img class="cikk-temakor" src="/sites/default/files/fo_temakorok/12_egyhaztortenet.png"/&gt;&lt;/a&gt; &lt;/div&gt;
+&lt;div class="col-md-8"&gt;
+&lt;div class="cikk-szerzo"&gt;
+				Szamborovszkyné Nagy Ibolya				
+&lt;/div&gt;
+&lt;div class="cikk-cim"&gt;
+				„Maradjatok meg ezért a hitben szilárdan és állhatatosan”				
+&lt;/div&gt;
+&lt;div class="cikk-alcim"&gt;
+				A kárpátaljai református közösség megmaradási esélyei és lehetőségei a Szovjetunióhoz történt csatolás után				
+&lt;/div&gt;
+&lt;div class="cikk-osszefoglalas"&gt;
+&lt;/div&gt;
+&lt;div class="cikk-tax-fo-temakor"&gt;
+&lt;span&gt;Fő témakör: &lt;/span&gt;&lt;br/&gt;&lt;a href="/hu/taxonomy/term/12"&gt;egyháztörténet&lt;/a&gt; &lt;/div&gt;
+&lt;div class="cikk-tax-temak"&gt;
+&lt;span&gt;Címkék: &lt;/span&gt;&lt;div class="item-list"&gt;&lt;ul&gt;&lt;li class="odd first"&gt;&lt;a href="/hu/taxonomy/term/195"&gt;Határon túli magyarok&lt;/a&gt;&lt;/li&gt;&lt;li class="even"&gt;&lt;a href="/hu/taxonomy/term/214"&gt;Kárpátalja&lt;/a&gt;&lt;/li&gt;&lt;li class="odd"&gt;&lt;a href="/hu/taxonomy/term/204"&gt;Református egyház&lt;/a&gt;&lt;/li&gt;&lt;li class="even last"&gt;&lt;a href="/hu/taxonomy/term/120"&gt;Szovjetunió&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cikk-pdf-letoltes"&gt;
+&lt;a href="https://betekinto.hu/sites/default/files/betekinto-szamok/2023_01_szamborovszky.pdf" target="blank"&gt;				
+				Letöltés				&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class="col-md-12"&gt;
+&lt;div class="egy-cikk"&gt;
+&lt;div class="col-md-4"&gt;
+&lt;a href="/taxonomy/term/7"&gt;&lt;img class="cikk-temakor" src="/sites/default/files/fo_temakorok/07_politikai_perek.png"/&gt;&lt;/a&gt; &lt;/div&gt;
+&lt;div class="col-md-8"&gt;
+&lt;div class="cikk-szerzo"&gt;
+				Csapody Tamás				
+&lt;/div&gt;
+&lt;div class="cikk-cim"&gt;
+				Légrády Gyula szerepe Tóth Ilonáék perében				
+&lt;/div&gt;
+&lt;div class="cikk-alcim"&gt;
+
+&lt;/div&gt;
+&lt;div class="cikk-osszefoglalas"&gt;
+&lt;/div&gt;
+&lt;div class="cikk-tax-fo-temakor"&gt;
+&lt;span&gt;Fő témakör: &lt;/span&gt;&lt;br/&gt;&lt;a href="/hu/taxonomy/term/7"&gt;politikai perek&lt;/a&gt; &lt;/div&gt;
+&lt;div class="cikk-tax-temak"&gt;
+&lt;span&gt;Címkék: &lt;/span&gt;&lt;div class="item-list"&gt;&lt;ul&gt;&lt;li class="odd first"&gt;&lt;a href="/hu/taxonomy/term/25"&gt;1956&lt;/a&gt;&lt;/li&gt;&lt;li class="even"&gt;&lt;a href="/hu/taxonomy/term/37"&gt;Budapest&lt;/a&gt;&lt;/li&gt;&lt;li class="odd last"&gt;&lt;a href="/hu/taxonomy/term/95"&gt;Népbírósági tárgyalások&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cikk-pdf-letoltes"&gt;
+&lt;a href="https://betekinto.hu/sites/default/files/betekinto-szamok/2023_01_csapody.pdf" target="blank"&gt;				
+				Letöltés				&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class="col-md-12"&gt;
+&lt;div class="egy-cikk"&gt;
+&lt;div class="col-md-4"&gt;
+&lt;a href="/taxonomy/term/178"&gt;&lt;img class="cikk-temakor" src="/sites/default/files/fo_temakorok/22_szervezettortenet.png"/&gt;&lt;/a&gt; &lt;/div&gt;
+&lt;div class="col-md-8"&gt;
+&lt;div class="cikk-szerzo"&gt;
+				Csatári Bence				
+&lt;/div&gt;
+&lt;div class="cikk-cim"&gt;
+				A Tájékoztatási Hivatal kapcsolata a kormányzattal 1958–1963 között				
+&lt;/div&gt;
+&lt;div class="cikk-alcim"&gt;
+
+&lt;/div&gt;
+&lt;div class="cikk-osszefoglalas"&gt;
+&lt;/div&gt;
+&lt;div class="cikk-tax-fo-temakor"&gt;
+&lt;span&gt;Fő témakör: &lt;/span&gt;&lt;br/&gt;&lt;a href="/hu/taxonomy/term/178"&gt;szervezettörténet&lt;/a&gt; &lt;/div&gt;
+&lt;div class="cikk-tax-temak"&gt;
+&lt;span&gt;Címkék: &lt;/span&gt;&lt;div class="item-list"&gt;&lt;ul&gt;&lt;li class="odd first"&gt;&lt;a href="/hu/taxonomy/term/208"&gt;Értelmiség&lt;/a&gt;&lt;/li&gt;&lt;li class="even"&gt;&lt;a href="/hu/taxonomy/term/86"&gt;Magyar Szocialista Munkáspárt&lt;/a&gt;&lt;/li&gt;&lt;li class="odd last"&gt;&lt;a href="/hu/taxonomy/term/207"&gt;Sajtó&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cikk-pdf-letoltes"&gt;
+&lt;a href="https://betekinto.hu/sites/default/files/betekinto-szamok/2023_01_csatari.pdf" target="blank"&gt;				
+				Letöltés				&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class="col-md-12"&gt;
+&lt;div class="egy-cikk"&gt;
+&lt;div class="col-md-4"&gt;
+&lt;a href="/taxonomy/term/176"&gt;&lt;img class="cikk-temakor" src="/sites/default/files/fo_temakorok/20_kritika.png"/&gt;&lt;/a&gt; &lt;/div&gt;
+&lt;div class="col-md-8"&gt;
+&lt;div class="cikk-szerzo"&gt;
+				Szilágyi Gábor				
+&lt;/div&gt;
+&lt;div class="cikk-cim"&gt;
+				„Új országot épít a...”				
+&lt;/div&gt;
+&lt;div class="cikk-alcim"&gt;
+				Földes György: Nemzet és hegemónia.  Magyarország 1945‒–1989.   Napvilág, Budapest, 2021. 291 oldal				
+&lt;/div&gt;
+&lt;div class="cikk-osszefoglalas"&gt;
+&lt;/div&gt;
+&lt;div class="cikk-tax-fo-temakor"&gt;
+&lt;span&gt;Fő témakör: &lt;/span&gt;&lt;br/&gt;&lt;a href="/hu/taxonomy/term/176"&gt;kritika&lt;/a&gt; &lt;/div&gt;
+&lt;div class="cikk-tax-temak"&gt;
+&lt;span&gt;Címkék: &lt;/span&gt;&lt;div class="item-list"&gt;&lt;ul&gt;&lt;li class="odd first"&gt;&lt;a href="/hu/taxonomy/term/226"&gt;Kádár-rendszer&lt;/a&gt;&lt;/li&gt;&lt;li class="even last"&gt;&lt;a href="/hu/taxonomy/term/189"&gt;Recenzió&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cikk-pdf-letoltes"&gt;
+&lt;a href="https://betekinto.hu/sites/default/files/betekinto-szamok/2023_01_szilagyi.pdf" target="blank"&gt;				
+				Letöltés				&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class="col-md-12"&gt;
+&lt;div class="egy-cikk"&gt;
+&lt;div class="col-md-4"&gt;
+&lt;a href="/taxonomy/term/220"&gt;&lt;img class="cikk-temakor" src="/sites/default/files/fo_temakorok/27_muveszet_kultura.png"/&gt;&lt;/a&gt; &lt;/div&gt;
+&lt;div class="col-md-8"&gt;
+&lt;div class="cikk-szerzo"&gt;
+				Joó Adrienn				
+&lt;/div&gt;
+&lt;div class="cikk-cim"&gt;
+				A koronatanú				
+&lt;/div&gt;
+&lt;div class="cikk-alcim"&gt;
+
+&lt;/div&gt;
+&lt;div class="cikk-osszefoglalas"&gt;
+&lt;/div&gt;
+&lt;div class="cikk-tax-fo-temakor"&gt;
+&lt;span&gt;Fő témakör: &lt;/span&gt;&lt;br/&gt;&lt;a href="/hu/taxonomy/term/220"&gt;művészet, kultúra&lt;/a&gt; &lt;/div&gt;
+&lt;div class="cikk-tax-temak"&gt;
+&lt;span&gt;Címkék: &lt;/span&gt;&lt;div class="item-list"&gt;&lt;ul&gt;&lt;li class="odd first"&gt;&lt;a href="/hu/taxonomy/term/212"&gt;Doku Filmklub&lt;/a&gt;&lt;/li&gt;&lt;li class="even"&gt;&lt;a href="/hu/taxonomy/term/47"&gt;Emlékezet&lt;/a&gt;&lt;/li&gt;&lt;li class="odd last"&gt;&lt;a href="/hu/taxonomy/term/79"&gt;Kultúra&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cikk-pdf-letoltes"&gt;
+&lt;a href="https://betekinto.hu/sites/default/files/betekinto-szamok/2023_01_joo_1.pdf" target="blank"&gt;				
+				Letöltés				&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div class="col-md-12"&gt;
+&lt;div class="egy-cikk"&gt;
+&lt;div class="col-md-4"&gt;
+&lt;a href="/taxonomy/term/220"&gt;&lt;img class="cikk-temakor" src="/sites/default/files/fo_temakorok/27_muveszet_kultura.png"/&gt;&lt;/a&gt; &lt;/div&gt;
+&lt;div class="col-md-8"&gt;
+&lt;div class="cikk-szerzo"&gt;
+				Joó Adrienn				
+&lt;/div&gt;
+&lt;div class="cikk-cim"&gt;
+				„…ti is élni fogtok.”				
+&lt;/div&gt;
+&lt;div class="cikk-alcim"&gt;
+				Pógyor István mártírhalála				
+&lt;/div&gt;
+&lt;div class="cikk-osszefoglalas"&gt;
+&lt;/div&gt;
+&lt;div class="cikk-tax-fo-temakor"&gt;
+&lt;span&gt;Fő témakör: &lt;/span&gt;&lt;br/&gt;&lt;a href="/hu/taxonomy/term/220"&gt;művészet, kultúra&lt;/a&gt; &lt;/div&gt;
+&lt;div class="cikk-tax-temak"&gt;
+&lt;span&gt;Címkék: &lt;/span&gt;&lt;div class="item-list"&gt;&lt;ul&gt;&lt;li class="odd first"&gt;&lt;a href="/hu/taxonomy/term/212"&gt;Doku Filmklub&lt;/a&gt;&lt;/li&gt;&lt;li class="even"&gt;&lt;a href="/hu/taxonomy/term/47"&gt;Emlékezet&lt;/a&gt;&lt;/li&gt;&lt;li class="odd last"&gt;&lt;a href="/hu/taxonomy/term/79"&gt;Kultúra&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cikk-pdf-letoltes"&gt;
+&lt;a href="https://betekinto.hu/sites/default/files/betekinto-szamok/2023_01_joo_2.pdf.pdf" target="blank"&gt;				
+				Letöltés				&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt; &lt;/main&gt;</description><author>Betekintő</author><pubDate>Mon, 05 Jun 2023 20:33:00 GMT</pubDate><guid isPermaLink="true">https://betekinto.hu/hu/szamok/2023_1</guid></item></channel></rss>
